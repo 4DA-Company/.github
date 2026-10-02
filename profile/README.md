@@ -1,8 +1,8 @@
 # 4 Digital Asset
 
-[Short company description: what we build and for whom.]
+**TDPnet** is a distributed network architecture.
 
-🌐 [website] · ✉️ 4digitalasset@gmail.com
+📍 Sweden · ✉️ 4digitalasset@gmail.com
 
 ---
 

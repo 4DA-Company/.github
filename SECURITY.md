@@ -9,7 +9,7 @@ with:
 - a description of the problem and its impact,
 - steps to reproduce (if possible).
 
-We will acknowledge your report within [3 business days] and keep you informed
+We will acknowledge your report within 3 business days and keep you informed
 until it is resolved.
 
 ## Rules for contributors
